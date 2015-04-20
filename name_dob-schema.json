@@ -1,0 +1,5 @@
+[
+  {"name":"first_name", "class":"name", "type":"first"},
+  {"name":"last_name", "class":"name", "type":"last"},
+  {"name":"dob", "class":"date", "start":"1924-01-01", "end":"2014-01-01"}
+]
